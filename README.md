@@ -1,4 +1,5 @@
-https://travis-ci.org/DeRauk/Workbench.svg?branch=master
+### Status
+[![Build Status](https://travis-ci.org/DeRauk/Workbench.svg)](https://travis-ci.org/DeRauk/Workbench)
 
 # Workbench
 Command line stuff
